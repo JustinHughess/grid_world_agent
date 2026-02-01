@@ -137,7 +137,3 @@ n_trainings = 1000      # Number of episodes
 max_steps = 200         # Max steps per episode
 visualize_every = 100   # Visualize every N episodes
 ```
-
-## License
-
-MIT License
